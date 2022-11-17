@@ -3,4 +3,4 @@ steps:
   entrypoint: 'bash'
   args:
   - '-c'
-  - 'echo "Test 1"'
+  - 'echo "Test 2"'
